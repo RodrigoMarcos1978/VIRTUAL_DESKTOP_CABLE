@@ -24,6 +24,8 @@ Tudo é **automatizado**:
 - ✅ Instala o APK se necessário
 - ✅ Inicia a conexão automaticamente
 - ✅ Exibe status e logs
+- ✅ Desabilita o Wifi no Headset quando a conexão é estabelecida e reabilita quando o programa é fechado.
+
 
 ---
 
