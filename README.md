@@ -5,7 +5,7 @@ Feito por Rodrigo Marcos
 
 ## 🎯 Objetivo
 
-Permitir usar o Virtual Desktop no Meta Quest por **cabo USB**, reduzindo dependência do Wi-Fi e ajudando a manter uma conexão mais estável (principalmente em ambientes com rede congestionada).
+Permitir usar o Virtual Desktop no Meta Quest/ Pico por **cabo USB**, reduzindo dependência do Wi-Fi e ajudando a manter uma conexão mais estável (principalmente em ambientes com rede congestionada).
 
 ---
 
