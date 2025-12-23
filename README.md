@@ -69,6 +69,8 @@ Tudo é **automatizado**:
   - Troque a porta USB, use USB 3.0, teste outro cabo e use “RESET ADB” e teste novamente
 - **Conexão cai / instável**
   - Desligue o Wi-Fi no Quest para manter a rota pelo cabo
+  - Confirme que esta usando Cabo USB 3.0
+  - Troque a porta USB, use a porta USB 3.0 traseira, teste outro cabo, use “RESET ADB” e teste novamente
 
 ---
 
