@@ -39,13 +39,13 @@ Tudo é **automatizado**:
 ## 🚀 Como ativar o Modo Desenvolvedor
 
 1- Acesse o painel de desenvolvedor: https://developer.oculus.com/manage
-2. Faça login com a conta usada no Quest e crie uma Organização.
+2- Faça login com a conta usada no Quest e crie uma Organização.
 3- Aceite os termos de desenvolvedor.
 4- No celular (com Bluetooth ligado), abra o app Meta Quest.
 5- Vá em: ☰ → Dispositivos → Configurações do Headset → Modo Desenvolvedor.  Ative e reinicie o Quest.
 
-6. Se o Java não estiver instalado, o programa solicitará permissão e abrirá o instalador
-7. Se o APK não estiver instalado, o programa solicitará confirmação e instalará via ADB
+6- Se o Java não estiver instalado, o programa solicitará permissão e abrirá o instalador
+7- Se o APK não estiver instalado, o programa solicitará confirmação e instalará via ADB
 
 ---
 
@@ -55,13 +55,13 @@ Tudo é **automatizado**:
 
 2- Conecte o cabo USB 3.0 no Meta Quest  e numa porta 3.0 traseira do seu computador. No Quest, clique em Permitir sempre que aparecer. Dica: marque “Sempre permitir neste dispositivo” para não precisar autorizar toda vez.
 
-3. Deixe o Virtual desktop Streamer aberto e abra o **VIRTUAL DESKTOP CABLE**
+3- Deixe o Virtual desktop Streamer aberto e abra o **VIRTUAL DESKTOP CABLE**
 
-3- Se o Java ou APK ainda não estiver instalado no Computador/headset, ele será instalado automaticamente. Confirme a instalação e aguarde. Na primeira execução, pode aparecer um pedido para autorizar o app a criar uma VPN. Autorize e reinicie o headset.
+4- Se o Java ou APK ainda não estiver instalado no Computador/headset, ele será instalado automaticamente. Confirme a instalação e aguarde. Na primeira execução, pode aparecer um pedido para autorizar o app a criar uma VPN. Autorize e reinicie o headset.
 
-4- Se o Quest não conectar de jeito nenhum, use o botão RESETAR ADB. Se ainda não conectar, é possível que alguém tenha negado anteriormente a permissão de ADB no Quest. Nesse caso, faça o seguinte:  No Quest, vá em: Configurações → Avançado → Redefinir recursos experimentais → Redefinir para o padrão. Depois, reinicie o Meta Quest.
+5- Se o Quest não conectar de jeito nenhum, use o botão RESETAR ADB. Se ainda não conectar, é possível que alguém tenha negado anteriormente a permissão de ADB no Quest. Nesse caso, faça o seguinte:  No Quest, vá em: Configurações → Avançado → Redefinir recursos experimentais → Redefinir para o padrão. Depois, reinicie o Meta Quest.
 
-8. Quando estiver tudo OK,basta abrir o Virtual desktop no Headset e  aguardar de 5 a 15 segundos. Ele conectará automaticamente
+6-  Quando estiver tudo OK,basta abrir o Virtual desktop no Headset e  aguardar de 5 a 15 segundos. Ele conectará automaticamente
 
 
 ---
